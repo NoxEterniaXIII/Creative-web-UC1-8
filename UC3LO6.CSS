@@ -1,0 +1,12 @@
+.main-header {
+    background:url(img/bgimg1.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 800px;
+    color: floralwhite;
+  }
+  .section{
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+  }
+  

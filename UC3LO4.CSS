@@ -1,0 +1,9 @@
+.col > div{
+    background: rgb(47, 152, 71);
+    height: 120px;
+  }
+  nav .badge{
+    position: relative;
+    top: 20px;
+    right: 20px;
+  }
